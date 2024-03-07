@@ -1,1 +1,0 @@
-# PixArt-sigma-web
